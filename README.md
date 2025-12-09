@@ -1,6 +1,6 @@
 # Dashboard Meteo Realtime
 
-Application de visualisation meteo en temps reel utilisant Node.js, WebSockets et Chart.js. Ce projet a ete realise dans le cadre du TP.
+Application de visualisation meteo en temps reel utilisant Node.js, WebSockets et Chart.js. 
 
 ## Fonctionnalites
 
@@ -36,10 +36,20 @@ Le serveur demarrera sur le port 5002.
 
 ## Demo
 
-[Inserez votre video de demonstration ici]
+https://github.com/user-attachments/assets/b3ce6e28-582c-49e9-a1ee-228bacf3772b
+
+
 
 ## Structure du projet
 
 - app2.js : Serveur WebSocket.
 - temp.csv : Donnees sources.
 - index_tab.html : Interface utilisateur.
+
+## Auteur
+- Nom : Arroche Aya
+- Cours : Développement web full-stack avec JavaScript
+- Encadre par :Pr.Mohamed LACHGAR
+
+
+
